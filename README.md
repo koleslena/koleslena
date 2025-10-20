@@ -1,4 +1,18 @@
-## Hi there 👋
+## About me
+
+
+ 💻 Experienced software engineer. 
+
+ 🌱 Original illustrator.
+
+ 🔡 Passionate linguist. 
+
+
+#### Currently working on:
+
+ * 🧩 <a href='https://t.me/SuSanskritBot'>SanskritBot</a>.
+
+
 
 <!--
 **koleslena/koleslena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

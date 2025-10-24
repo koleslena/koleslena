@@ -11,6 +11,8 @@
 
 #### 🎓 Currently working on:
 
+ * 📚 <a href='https://github.com/koleslena/sanskrit_nlp_models'>Sanskrit&NLP</a>
+
  * 🧩 <a href='https://t.me/SuSanskritBot'>SanskritBot</a>.
 
 

@@ -13,7 +13,9 @@
 
  * 📚 [Sanskrit&NLP](https://github.com/koleslena/sanskrit_nlp_models)
 
- * 🧩 [SanskritBot](https://t.me/SuSanskritBot)
+ * 🧩 [Sanskrit Bot](https://t.me/SuSanskritBot)
+ 
+ * 🤖 [Sanskrit Tutor Bot](https://t.me/SanskritTutorBot) // [repo](https://github.com/koleslena/sanskrit-trainer-bot)
 
 
 #### 🪷 My illustrations on <a href='https://www.behance.net/deva_lakshmi_kaur'>behance</a>

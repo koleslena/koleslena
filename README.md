@@ -9,16 +9,34 @@
 
 ## 
 
-#### 🎓 Currently working on:
+### 🎓 Currently working on:
 
- * 📚 [Sanskrit&NLP](https://github.com/koleslena/sanskrit_nlp_models)
-
- * 🧩 [Sanskrit Bot](https://t.me/SuSanskritBot)
+ * 🧠 Text segmenter and POS-tagger models for Sanskrit [Sanskrit&NLP](https://huggingface.co/spaces/koleslena/sanskrit-nlp-app) // [repo](https://github.com/koleslena/sanskrit_nlp_models)
  
- * 🤖 [Sanskrit Tutor Bot](https://t.me/SanskritTutorBot) // [repo](https://github.com/koleslena/sanskrit-trainer-bot)
+ * 🧩 Morphological analyzer and POS-tagger for Sanskrit texts [Sanskrit RoBot](https://t.me/sanskrit_nlp_bot) // [repo](https://github.com/koleslena/sanskrit_robot)
+
+ * 📚 An interactive tool with Sanskrit dictionaries [Sanskrit Bot](https://t.me/SuSanskritBot)
+ 
+ * 🤖 An interactive tool for Sanskrit morphological training [Sanskrit Tutor Bot](https://t.me/SanskritTutorBot) // [repo](https://github.com/koleslena/sanskrit-trainer-bot)
 
 
-#### 🪷 My illustrations on <a href='https://www.behance.net/deva_lakshmi_kaur'>behance</a>
+### 🛠 Tech Stack
+#### 🐍 Python & AI/NLP
+
+* **Core:** Python, PyTorch, aiogram.
+
+* **Data Science:** pandas, numpy, scikit-learn.
+
+* **Deployment: Hugging** Face, Linux/Systemd.
+
+#### ☕ Java Development
+
+* **Commercial Experience:** Experienced Java Developer working on large-scale enterprise projects.
+* **Focus:** Building robust backend architectures and scalable microservices.
+* Note: Java repositories are private due to commercial NDAs.
+
+
+### 🪷 My illustrations on [Behance](https://www.behance.net/deva_lakshmi_kaur)
 
 <!--
 **koleslena/koleslena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

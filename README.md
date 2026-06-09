@@ -25,9 +25,9 @@
 
 * **Core:** Python, PyTorch, aiogram.
 
-* **Data Science:** pandas, numpy, scikit-learn.
+* **Data Science:** pandas, numpy, scikit-learn, langchain, langgraph.
 
-* **Deployment: Hugging** Face, Linux/Systemd.
+* **Deployment: Hugging** Face, Linux/Systemd, Docker.
 
 #### ☕ Java Development
 
